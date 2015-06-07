@@ -50,6 +50,11 @@
 			</tr>
 			
 			<tr>
+				<td><a href="alumni/LexiCantu">Lexi Cantu</td>
+				<td>September 2013 - August 2014</td>
+			</tr>
+			
+			<tr>
 				<td><a href="alumni/KatieColbaugh">Katie Colbaugh</a></td>
 				<td>May 2009 - December 2013</td>
 			</tr>	
@@ -114,7 +119,7 @@
 			</tr>
 						
 			<tr>
-				<td><a href="alumni/Marissa Schroeder">Marissa Schroeder</a></td>
+				<td><a href="alumni/MarissaSchroeder">Marissa Schroeder</a></td>
 				<td>March 2014 - August 2014</td>
 			</tr>
 						
