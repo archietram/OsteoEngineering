@@ -106,7 +106,7 @@
 	<ul>
 		<li>Ohio State University
 			<ul>
-				<li><a href="https://cmif.osu.edu/index.cfm" target="_blank"> Campus Microscopy & Imaging Facility (CMIF)</a> | Capabilities: SEM, TEM, Confocal, Live-Cell Confocal, Multiphoton Confocal, Nuance Camera, and Brightfield, Darkfield, Phase Contrast, & Fluorescence LM.</li>
+				<li><a href="http://www.cmif.osu.edu/" target="_blank"> Campus Microscopy & Imaging Facility (CMIF)</a> | Capabilities: SEM, TEM, Confocal, Live-Cell Confocal, Multiphoton Confocal, Nuance Camera, and Brightfield, Darkfield, Phase Contrast, & Fluorescence LM.</li>
 				<li><a href="http://cemas.osu.edu/ " target="_blank"> Center for Electron Microscopy and AnalysiS (CEMAS)</a> | Capabilities: SEM, TEM, FIB, and XRD.</li>
 					<ul>
 						<li><a href="/downloads/resources/Facility_Online_Manager.pptx" target="_blank"> Facility Online Manager [PPT]</a></li>

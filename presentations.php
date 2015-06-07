@@ -23,40 +23,68 @@
 	<h2>Presentations</h2>
 	
 	<div class="panel-group" id="accordion">
-  <div class="panel panel-default">
+  
+    <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"><strong>STEP</strong></a>
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne"><strong>Advanced Research in Virtual and Rapid Prototyping</strong></a>
       </h4>
     </div>
     <div id="collapseOne" class="panel-collapse collapse">
       <div class="panel-body">
-         <p><a href="/downloads/presentations/step/STEP_poster.ppt" target="_blank"> MSC Embedded Fibrin Loading of Poly(propylene) Fumarate Scaffolds for Bone Tissue Engineering: A SCID Mouse Model [PPT]</a></p> 
+         <p><a href="/downloads/presentations/VRAP_2013.pdf" target="_blank"> 2013: Determination of Resin Components for continuous Digital Light Processing (cDLP) Additive Manufacture of Resorbable Tissue Engineering Scaffolds</a></p> 
       </div>
     </div>
-  </div>
-  <div class="panel panel-default">
+  </div> 
+  
+   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"><strong>OSU Student Poster Forum</strong></a>
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"><strong>Bioprinting</strong></a>
       </h4>
     </div>
     <div id="collapseTwo" class="panel-collapse collapse">
       <div class="panel-body">
-         <p><a href="/downloads/presentations/OSU_Student_Poster_Forum/Student_Poster_Forum_2014-09-18_with-ejm-edits.ppt" target="_blank"> Optimization of cell culture conditions and growth factor dose for the deposition of a bone extracellular matrix layer on Poly(propylene fumarate) biomaterials [PPT]</a></p> 
+         <p><a href="/downloads/presentations/Bioprinting_2013.pdf" target="_blank"> 2013: On 3D printing PPF for bone tissue engineering.</a></p> 
       </div>
     </div>
   </div>
-  
-  <div class="panel panel-default">
+ 
+      <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"><strong>T2C</strong></a>
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree"><strong>Denman Undergraduate Research Forum</strong></a>
       </h4>
     </div>
     <div id="collapseThree" class="panel-collapse collapse">
       <div class="panel-body">
-         <p><a href="/downloads/presentations/T2C/T2C-2014-poster_Mott-et-al_20140310.pdf" target="_blank"> Tuning 3D Printed Resorbable Scaffold Strength and Resorption [PDF]</a></p> 
+         <p><a href="/downloads/presentations/Denman_2015.pdf" target="_blank"> 2015: Simulation of Mechanical Compression of Bone Tissue Engineering Scaffolds</a></p> 
+      </div>
+    </div>
+  </div>	
+  
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"><strong>National Center for Regenerative Medicine</strong></a>
+      </h4>
+    </div>
+    <div id="collapseFour" class="panel-collapse collapse">
+      <div class="panel-body">
+         <p><a href="/downloads/presentations/NCRM_2013.pdf" target="_blank"> 2013: 3D-Printing Resin Component Optimization for Mechanical Properties Characterization of Photocrosslinked Resorbable Bone Tissue Engineering Scaffolds</a></p> 
+      </div>
+    </div>
+  </div>
+  
+      <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFive"><strong>Ohio State Biomedical Engineering Conference</strong></a>
+      </h4>
+    </div>
+    <div id="collapseFive" class="panel-collapse collapse">
+      <div class="panel-body">
+         <p><a href="/downloads/presentations/OSBMEC_2015.pdf" target="_blank"> 2015: Design of 3D-Printed Bone Tissue Engineering Scaffolds with Pore Architecture based on Triply Period Minimal Surfaces</a></p> 
       </div>
     </div>
   </div>
@@ -64,54 +92,69 @@
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour"><strong>TERMIS-AM</strong></a>
-      </h4>
-    </div>
-    <div id="collapseFour" class="panel-collapse collapse">
-      <div class="panel-body">
-         <p><a href="/downloads/presentations/TERMIS-AM/TERMIS-AM-poster_Dean-and-Mott_20131112.pptx" target="_blank"> Tuning 3D Printed Resorbable Scaffold Strength and Resorption [PPT]</a></p> 
-      </div>
-    </div>
-  </div>
-
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFive"><strong>NCRM</strong></a>
-      </h4>
-    </div>
-    <div id="collapseFive" class="panel-collapse collapse">
-      <div class="panel-body">
-         <p><a href="/downloads/presentations/NCRM/NCRM-Retreat-2013-poster_Dean-and-Mott_20131125.pptx" target="_blank"> 3D-Printing Resin Component Optimization for Mechanical Properties Characterization of Photocrosslinked Resorbable Bone Tissue Engineering Scaffolds [PPT]</a></p> 
-      </div>
-    </div>
-  </div>
-
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSix"><strong>Bioprinting</strong></a>
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSix"><strong>Ohio State University Student Poster Forum</strong></a>
       </h4>
     </div>
     <div id="collapseSix" class="panel-collapse collapse">
       <div class="panel-body">
-         <p><a href="/downloads/presentations/Bioprinting/On-3D-printing-PPF-for-bone-tissue-engineering_Bioprinting-2013_EJM_2013114.pptx" target="_blank"> On 3D printing PPF for bone tissue engineering. [PPT]</a></p> 
+         <p><a href="/downloads/presentations/Student_Poster_Forum_2014.pdf" target="_blank"> 2014: Optimization of cell culture conditions and growth factor dose for the deposition of a bone extracellular matrix layer on Poly(propylene fumarate) biomaterials</a></p> 
       </div>
     </div>
   </div>
-
+  
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
-        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven"><strong>VRAP</strong></a>
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven"><strong>Tissue Engineering and Regenerative Medicine International Society Annual Meeting</strong></a>
       </h4>
     </div>
     <div id="collapseSeven" class="panel-collapse collapse">
       <div class="panel-body">
-         <p><a href="/downloads/presentations/VRAP/Dean_D-VRAP_2013.pptx" target="_blank"> Determination of Resin Components for continuous Digital Light Processing (cDLP) Additive Manufacture of Resorbable Tissue Engineering Scaffolds [PPT]</a></p> 
+         <p><a href="/downloads/presentations/TERMIS-AM_2013.pdf" target="_blank"> 2013: Tuning 3D Printed Resorbable Scaffold Strength and Resorption</a></p> 
       </div>
     </div>
-  </div>  
+  </div>
+  
+      <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseEight"><strong>Translational to Clinical</strong></a>
+      </h4>
+    </div>
+    <div id="collapseEight" class="panel-collapse collapse">
+      <div class="panel-body">
+         <p><a href="/downloads/presentations/T2C_2014.pdf" target="_blank"> 2014: Tuning 3D Printed Resorbable Scaffold Strength and Resorption</a></p> 
+      </div>
+    </div>
+  </div>
+  
+    <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseNine"><strong>RAPID</strong></a>
+      </h4>
+    </div>
+    <div id="collapseNine" class="panel-collapse collapse">
+      <div class="panel-body">
+         <p><a href="/downloads/presentations/RAPID_2015.pdf" target="_blank"> 2015: Design Parameters for Resorbable, 3D Printed Medical Devices.</a></p> 
+      </div>
+    </div>
+  </div>
+  
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">  
+        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTen"><strong>Second-year Transformational Experience Program</strong></a>
+      </h4>
+    </div>
+    <div id="collapseTen" class="panel-collapse collapse">
+      <div class="panel-body">
+         <p><a href="/downloads/presentations/STEP_2014.pdf" target="_blank"> 2014: MSC Embedded Fibrin Loading of Poly(propylene) Fumarate Scaffolds for Bone Tissue Engineering: A SCID Mouse Model</a></p> 
+      </div>
+    </div>
+  </div>
+
+  
 </div>
 
 </div><!-- /.container -->
