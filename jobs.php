@@ -31,25 +31,28 @@
   				</div><!-- /.col-sm-12 -->
 	 			
 	 			<div class="col-xs-12">
-					<h4>July 2014 Recruitment Presentation</h4>
+					<h4>Past Recruitment Presentations</h4>
 					<div class="embed-responsive embed-responsive-16by9">
 						<iframe class="embed-responsive-item" src="//player.vimeo.com/video/94224626?color=ffffff" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 					</div><!-- /.video-container -->
-					<p>This recruitment effort has ended. However, the video is posted here for historical purposes and to provide additional information about the Osteo Engineering Laboratory.</p>
+					<hr class="featurette-divider">
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe class="embed-responsive-item" src="//player.vimeo.com/video/111573256?color=ffffff" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+					</div><!-- /.embed-responsive -->
+					<hr class="featurette-divider">
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe class="embed-responsive-item" src="//player.vimeo.com/video/111573237?color=ffffff" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+					</div><!-- /.video-container -->
+					<hr class="featurette-divider">
+					<p>These recruitment efforts have ended. However, the videos are posted here for historical purposes and to provide additional information about the Osteo Engineering Laboratory.</p>
 				</div><!-- /.col-sm-12 -->
+				
 			</div><!-- /.row -->
         </div><!-- /span -->
         
         <div class="col-xs-12 col-md-8">
         
         	<div class="row">
-        		<div class="col-xs-12">
-         			 <h2>Lab Manager<br><span class="text-muted">Osteo Engineering Laboratory.</span></h2>
-         			 <p>LAB MANAGER (Official Title: Research Associate) position available immediately. A full-time manager is needed to oversee and execute the operations of the Osteo Engineering Laboratory, which includes but is not limited to hiring and training assistants, assisting researchers and clinicians, and scheduling. The ideal candidate is highly flexible in the type of work he or she is doing and has strong technical and communication skills and excels in leadership roles. Strong attention to detail and organization are musts. A background including work experience and a Masters Degree in a relevant field of biology and/or engineering is preferred. The Osteo Engineering Lab Manager participates in the planning, designing and control of research projects investigating BONE TISSUE ENGINEERING AND 3D PRINTING; participates in the development and implementation of new and/or revised research methodologies and protocols including criteria for evaluating controls, test samples and performance standards, including cell culture and cytotoxicity testing; designs and executes complex laboratory experiments; performs advanced techniques and in vitro and/or animal model experiments to understand the PRODUCTION AND PERFORMANCE OF TISSUE ENGINEERING CONSTRUCTS; reviews protocols; compiles, analyzes and interprets technical data and results for research papers, manuscripts, reports, proposals and/or presentations; maintains integrity of data; collaborates with the Principal Investigator to write manuscripts, research papers and abstracts for publication and presentation at workshops and conferences; attends and presents at scientific meetings; performs critical analyses of literature relevant to research undertaken; supervises Graduate, Medical, and Undergraduate student Research Assistants in the laboratory; prioritizes lab workload and implements measures to ensure goals are met; maintains lab safety; assists with maintenance of equipment, lab inventory and overall lab organization including the lab website; handles the purchasing of laboratory materials and supplies. Candidates should send a letter of interest and curriculum vitae and have three letters of recommendation sent to David Dean, Ph.D., Department of Plastic Surgery, The Ohio State University, 460 West 12th Ave., 10th Floor, Rm. 1004, Columbus, OH 43210 USA. Fax:(614) 688-2195; E-mail: David.Dean@osumc.edu. In employment, as in education, The Ohio State University is committed to Equal Opportunity and Diversity.</p>
-					
-					<hr class="featurette-divider">
-				</div><!-- /.col-sm-12 -->
-			
         		<div class="col-xs-12">
          			 <h2>Lab Manager. <br><span class="text-muted">3D Printing Core.</span></h2> - <a href="downloads/jobs/3D-Printing-Core-Manager_job-description_final_2015.pdf">Download Job Description</a>
          			<h4>Description of the Core</h4>
@@ -102,28 +105,6 @@
 					
 					<hr class="featurette-divider">
         		</div><!-- /.col-sm-12 -->
-        	
-        		<div class="col-xs-12">
-         			 <h2>Postdoctoral Researcher<br> or Graduate Research Assistant. <br><span class="text-muted">Bone Tissue Engineering.</span></h2>
-         			 <p>Graduate Research Assistant or Postdoctoral Researcher position available July 1, 2015 in the Osteo Engineering Laboratory, Department of Plastic Surgery to STUDY POLYMER- AND CERAMIC-BASED TISSUE ENGINEERING SCAFFOLDS for craniofacial (bone) repair and regeneration. This individual is expected to have experience and strong interest in reconstructive craniofacial surgery and must have preclinical research training and experience involving: animal model surgery, bone marrow aspiration, cell culture, and preparation of histology relevant to bone tissue engineering. Experience with 3D printing, polymer scaffolds, ceramic scaffolds, clinical imaging, biomechanical material testing, and resorbable implant materials is also desirable. Candidates should send a letter of interest and curriculum vitae and have three letters of recommendation sent to David Dean, Ph.D., Department of Plastic Surgery, The Ohio State University, 460 West 12th Ave., 10th Floor, Rm. 1004, Columbus, OH  43210 USA. Fax:(614) 688-2195; E-mail: David.Dean@osumc.edu. In employment, as in education, The Ohio State University is committed to Equal Opportunity and Diversity.</p>
-					<div class="embed-responsive embed-responsive-16by9">
-						<iframe class="embed-responsive-item" src="//player.vimeo.com/video/111573256?color=ffffff" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-					</div><!-- /.embed-responsive -->
-					
-					<hr class="featurette-divider">
-				</div><!-- /.col-sm-12 -->
-
-
-     		
-      
-     		 <div class="col-sm-12">
-          		<h2>Postdoctoral Researcher<br> or Graduate Research Assistant. <br><span class="text-muted">Resorbable (Biodegradable) Polymer Synthesis.</span></h2>
-         		<p>Graduate Research Assistant or Postdoctoral Researcher position available June 1, 2015 in the Osteo Engineering Lab of the Department of Plastic Surgery to DESIGN AND SYNTHESIZE 3D PRINTABLE RESORBABLE POLYMERS FOR THE 3D PRINTING OF SCAFFOLDS FOR BONE TISSUE ENGINEERING. This individual is expected to have strong interest in, and training and experience relevant to, bioresorbable polymer: synthesis, characterization, and light-based photocrosslinking chemistry. Experience with 3D printing, cytyotoxicity testing, mechanical material testing, bone tissue engineering, and resorbable implant materials is also desirable. Candidates should send a letter of interest and curriculum vitae and three letters of recommendation to David Dean, Ph.D., Department of Plastic Surgery, The Ohio State University, 460 West 12th Ave., 10th Floor, Rm. 1004, Columbus, OH  43210 USA. Fax:(614) 688-2195; E-mail: David.Dean@osumc.edu. In employment, as in education, The Ohio State University is committed to Equal Opportunity and Diversity.</p>
-        		<div class="embed-responsive embed-responsive-16by9">
-					<iframe class="embed-responsive-item" src="//player.vimeo.com/video/111573237?color=ffffff" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-        		</div><!-- /.video-container -->		
-     		</div><!-- /.col-sm-12 -->
-	  
 		</div><!-- /.row -->
 	  </div><!-- /span -->
 	</div><!-- /.row -->

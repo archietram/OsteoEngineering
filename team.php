@@ -59,32 +59,6 @@
 			
 		</div><!-- /span -->
 		
-		<!-- ==================== Eric Mott ========================================== -->
-		
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/motte.jpg" >
-					<h2>Eric Mott</h2>
-					<p>Lab Operations Manager</p>
-					<p><a class="btn btn-default" href="team/EricMott">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<!-- ==================== Courtney Dolder ==================================== -->
-		
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/kueselc.jpg" >
-					<h2>Courtney Dolder</h2>
-					<p>Research Associate</p>
-					<p><a class="btn btn-default" href="team/CourtneyDolder">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
 		<!-- ==================== Ruchi Mishra ======================================= -->
 		
 		<div class="col-xs-12 col-sm-6 col-md-4">
@@ -127,19 +101,6 @@
 			</div><!-- /.row -->
 		</div><!-- /span -->
 
-		<!-- ==================== Tyler Bishop  ====================================== -->
-
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/bishopt.jpg" >
-					<h2>Tyler Bishop</h2>
-					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/TylerBishop">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->	
-		
 		<!-- ==================== Emily Bodamer ======================================= -->
 		
 		<div class="col-xs-12 col-sm-6 col-md-4">
@@ -166,19 +127,6 @@
 			</div><!-- /.row -->
 		</div><!-- /span -->	
 
-		<!-- ==================== Rachel Fishbein ==================================== -->
-
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/fishbeinr.jpg" >
-					<h2>Rachel Fishbein</h2>
-					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/RachelFishbein">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
 		<!-- ==================== Tyler Meder ======================================== -->
 		
 		<div class="col-xs-12 col-sm-6 col-md-4">
@@ -190,62 +138,6 @@
 					<p><a class="btn btn-default" href="team/TylerMeder">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<!-- ==================== Megan Posukonis ==================================== -->
-		
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/posukonism.jpg" >
-					<h2>Megan Posukonis</h2>
-					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/MeganPosukonis">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<!-- ==================== Ryan Sefcik  ======================================= -->
-		
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/sefcikr.jpg" >
-					<h2>Ryan Sefcik</h2>
-					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/RyanSefcik">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->
-		
-		<!-- ==================== Marissa Schroeder ================================== -->
-		
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<!-- Carousel
-					================================================== -->
-					<div id="myCarousel" class="carousel slide team-carousel" data-interval="8000">
-						<div class="carousel-inner img-circle">
-
-							<!-- Item 0 -->
-							<div class="item active">
-								<img style="margin-top:0px;" class="" src="img/team/schroederm.jpg" alt="marissa schroeder">
-							</div><!-- /.item -->
-
-							<!-- Item 2 -->
-							<div class="item">
-								<img style="margin-top:0px;" class="" src="img/team/schroederm-2.jpg" alt="marissa schroeder">
-							</div><!-- /.item -->
-							
-						</div><!-- /.carousel-inner -->		
-					</div><!-- /.carousel -->
-					<h2>Marissa Schroeder </h2>
-					<p>Undergraduate Research Assistant.</p>
-					<p><a class="btn btn-default" href="team/MarissaSchroeder ">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-			
 		</div><!-- /span -->
 		
 		<!-- ==================== Cynthia Schwartz =================================== -->
