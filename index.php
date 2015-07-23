@@ -128,6 +128,9 @@
 					We have used these techniques to prepare restorative but inert (i.e., non-resorbing) cranial implants for patients. However, a major focus of our preclinical research program has been the 3D printing of resorbable scaffolds.
 					We then seed cells, for example Mesenchymal Stem Cells (MSCs) and/or vascular progenitor cells, onto those solid, 3D printed polymer scaffolds or within hydrogels. Those constructs may then be cultured, perhaps in a bioreactor, before implantation. 
 					The intent of pre-culturing scaffolds is to fill and/or coat them with tissue that the body perceives as a “tissue engineered bone graft”.</p>
+					
+					<h3>News</h3>
+					<p>7/6/2015: Alison Claybon will be our new lab manager starting on July 14, 2015. Welcome Alison!</p>
 			
 					<div class="responsive-iframe-container twit">
 						<a class="twitter-timeline" href="https://twitter.com/OsteoEngineer" data-widget-id="445647602290135040">Tweets by @OsteoEngineer</a>

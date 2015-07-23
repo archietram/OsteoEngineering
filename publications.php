@@ -24,7 +24,27 @@
 
 <ul>
 
-<li><p>Dean D, Mott E, Luo X, Busso M, Wang MO, Vorwald C, Siblani A, Fisher JP: Multiple Initiators and Dyes for continuous Digital Light Processing (cDLP) Additive Manufacture of Resorbable Bone Tissue Engineering Scaffolds. Virtual and Physical Prototyping, in press.
+<li><p>Larsen M, Mishra R, Miller M, Dean D. Craniofacial and Dental Tissue. In (Lijie Grace Zhang and John Fisher, Eds.): “3D Bioprinting and Nanotechnology in Tissue Engineering and Regenerative Medicine”, Academic Press (Elsevier), Waltham, MA, pp. 191-213, 2015.
+ 
+<li><p>Larsen M, Mishra R, Miller M, Dean D. “Bioprinting of Bone.” In (Anthony Atala and James Yoo, Eds.): 3D Biofabrication for Biomedical and Translational Research, Academic Press (Elsevier), Waltham, MA (in press).
+ 
+<li><p><a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=25387454">Wang MO, Vorwald CE, Dreher ML, Mott EJ, Cheng M-H, Cinar A, Mehdizadeh H, Somo S, Dean D, Brey EM, Fisher JP: Evaluating 3D Printed Biomaterials as Scaffolds for Vascularized Bone Tissue Engineering. Advanced Materials 27(1):138-44, 2015.</a>
+ 
+<li><p>Childers EP, Wang M, Becker ML, Fisher JP, Dean D. 3D printing of resorbable poly(propylene fumarate) tissue engineering scaffolds. MRS Bulletin 40(2):119-126, 2015.
+ 
+<li><p>Bonda DJ, Manjila S, Selman WR, Dean D. The Recent Revolution in the Design and Manufacture of Cranial Implants: Modern Advancements and Future Directions. Neurosurgery (in press).
+ 
+<li><p>Rahmanian R, Shayesteh  Moghaddam N, Haberland C, Dean D, Miller M, Elahinia M. Load Bearing and Stiffness Tailored NiTi Implants Produced by Additive Manufacturing: A Simulation Study. SPIE Smart Structures/NDE 2014. San Diego, CA. In (Nakhiah C. Goulbourne, Hani E. Naguib, eds.): Behavior and Mechanics of Multifunctional Materials and Composites 2014, Proc. SPIE Vol. 9058, pp. 905814:1-8, 2014. doi: 10.1117/12.2048948.
+ 
+<li><p>Shayesteh Moghaddam N, Dean D, Miller M, Elahinia M. “Improving bone implant success by using nitinol as a substitute for titanium: A modeling comparison,” Proceedings ASME 2014 Smart Materials, Adaptive Structures and Intelligent Systems, September 8-10, 2014 Newport, Rhode Island. SMASIS 2014, 7648:1-6, 2014.
+ 
+<li><p>Rahmanian R. Taheri Andani M, Walker J, Dean D, Miller M, Elahinia M. “Modeling and validation of additively manufactured porous Nitinol,” Proceedings ASME 2014 Smart Materials, Adaptive Structures and Intelligent Systems, September 8-10, 2014 Newport, Rhode Island. SMASIS 2014, 7653:1-5, 2014.
+
+<li><p><a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=24956564">Andani MT, Shayesteh moghaddam N, Haberland C, Dean D, Miller MJ, Elahinia M. Metals for bone implants. Part 1. Powder metallurgy and implant rendering. Acta Biomater. 2014;10(10):4058-70.</a>
+
+<li><p><a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=24429508">Wallace J, Wang MO, Thompson P, et al. Validating continuous digital light processing (cDLP) additive manufacturing accuracy and tissue engineering utility of a dye-initiator package. Biofabrication. 2014;6(1):015003.</a>
+
+<li><p><a href="http://www.tandfonline.com/doi/abs/10.1080/17452759.2013.873337#.VZp5oflVikp" target="new"> D, Mott E, Luo X, Busso M, Wang MO, Vorwald C, Siblani A, Fisher JP: Multiple Initiators and Dyes for continuous Digital Light Processing (cDLP) Additive Manufacture of Resorbable Bone Tissue Engineering Scaffolds. Virtual and Physical Prototyping.</a>
 
 <li><p>Wallace J, Wang MO, Thompson P, Busso M, Belle V, Mammoser N, Kim K, Fisher JP, Siblani A, Xu Y, Welter JF, Lennon DP, Sun J, Caplan AI, Dean D: A Dye-Initiator package for the Highly Accurate Continuous Digital Light Processing (cDLP) Additive Manufacturing of Tissue Engineering Scaffolds. Biofabrication, in press. 
 
@@ -32,7 +52,7 @@
 
 <li><p>Song MJ, Dean D, Knothe Tate ML: <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=23660249">Mechanical Modulation of Nascent Stem Cell Lineage Commitment in Tissue Engineering Scaffolds.</a> Biomaterials 34(23):5766-5775, 2013. PMID: 23660249
 
-<li><p><a href="https://urldefense.proofpoint.com/v1/url?u=http://www.ncbi.nlm.nih.gov/pubmed/17822359&k=ux7ohqYFcw1oDo0gOpSLlw%3D%3D%0A&r=y1Sv2UWbVTf831W3HsTfQUmZ1OM3wFLXejUln0cHnd4%3D%0A&m=zTCIPrTLp%2FPjSoEGDKSDSFLF1abqQgCwPS8f%2BvavZ4A%3D%0A&s=152702016f1b6b06111018e324ea94e312be6f6bd7484d1051f7ae4ab4f90a03" target="new">Song MJ, Dean D, Knothe Tate MK: Computational Modeling of Tissue Engineering Scaffolds as Delivery Devices for Mechanical and Mechanically Modulated Signals. Stud Mechanobiol Tissue Eng  Biomater 10:127-143, 2013.</a></p></li>
+<li><p><a href="http://link.springer.com/chapter/10.1007/8415_2012_138#" target="new">Song MJ, Dean D, Knothe Tate MK: Computational Modeling of Tissue Engineering Scaffolds as Delivery Devices for Mechanical and Mechanically Modulated Signals. Stud Mechanobiol Tissue Eng  Biomater 10:127-143, 2013.</a></p></li>
 
 
 
