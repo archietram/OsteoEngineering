@@ -23,7 +23,7 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-sm-4 col-md-3 pull-left">
-			<img src="../img/team/harrisonl.jpg" alt="Lucas Harrison" class="img-responsive">
+			<img src="../img/alumni/harrisonl.jpg" alt="Lucas Harrison" class="img-responsive">
 			<address>
   				<br>
   				<a href="mailto:lh445612@ohio.edu">lh445612@ohio.edu</a>

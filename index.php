@@ -50,7 +50,7 @@
 			
 				<!-- Lab Pictures -->
 				<div class="item">
-					<img alt="Osteo Engineering Team" src="img/home/LabPicture1.jpg">
+					<img alt="Osteo Engineering Team" src="img/home/labpicture.jpg">
 					<div class="container">
 						<div class="carousel-caption">
 							

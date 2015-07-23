@@ -23,7 +23,7 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-sm-4 col-md-3 pull-left">
-			<img src="../img/team/crousern.jpg" alt="Nisha Crouser" class="img-responsive">
+			<img src="../img/alumni/crousern.jpg" alt="Nisha Crouser" class="img-responsive">
 			<address>
   				<br>
   				<a href="mailto:nisha.crouser@osumc.edu">nisha.crouser@osumc.edu</a>

@@ -46,12 +46,12 @@
 
 							<!-- Item 1 -->
 							<div class="item">
-								<img style="margin-top:0px;" class="" src="img/team/deand-1.jpg" alt="david dean">
+								<img style="margin-top:0px;" class="" src="img/team/deand-2.jpg" alt="david dean">
 							</div><!-- /.item -->
 							
 							<!-- Item 2 -->
 							<div class="item">
-								<img style="margin-top:0px;" class="" src="img/team/deand-2.jpg" alt="david dean">
+								<img style="margin-top:0px;" class="" src="img/team/deand-3.jpg" alt="david dean">
 							</div><!-- /.item -->
 							
 						</div><!-- /.carousel-inner -->		
@@ -64,19 +64,6 @@
 			
 		</div><!-- /span -->
 		
-		<!-- ==================== Alison Claybon ======================================= -->
-		
-		<div class="col-xs-12 col-sm-6 col-md-4">
-			<div class="row team">
-				<div class="col-xs-12">
-					<img class="img-circle" src="img/team/claybona.jpg" >
-					<h2>Alison Claybon</h2>
-					<p>Laboratory Manager</p>
-					<p><a class="btn btn-default" href="team/AlisonClaybon">View details &raquo;</a></p>
-				</div><!-- /.col-lg-4 -->
-			</div><!-- /.row -->
-		</div><!-- /span -->	
-	
 		<!-- ==================== Ruchi Mishra ======================================= -->
 		
 		<div class="col-xs-12 col-sm-6 col-md-4">
@@ -88,12 +75,12 @@
 
 							<!-- Item 0 -->
 							<div class="item active">
-								<img class="img-circle" src="img/team/mishrar-2.jpg" alt="Ruchi Mishra">
+								<img style="margin-top:0px;" class="img-circle" src="img/team/mishrar-2.jpg" alt="Ruchi Mishra">
 							</div><!-- /.item -->
 
 							<!-- Item 2 -->
 							<div class="item">
-								<img style="margin-top:0px;" class="" src="img/team/mishrar.jpg" alt="Ruchi Mishra">
+								<img style="margin-top:0px;" class="img-circle" src="img/team/mishrar.jpg" alt="Ruchi Mishra">
 							</div><!-- /.item -->
 							
 						</div><!-- /.carousel-inner -->		
@@ -118,6 +105,20 @@
 			</div><!-- /.row -->
 		</div><!-- /span -->
 
+		<!-- ==================== Alison Claybon ======================================= -->
+		
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="row team">
+				<div class="col-xs-12">
+					<img class="img-circle" src="img/team/claybona.jpg" >
+					<h2>Alison Claybon</h2>
+					<p>Laboratory Manager</p>
+					<p><a class="btn btn-default" href="team/AlisonClaybon">View details &raquo;</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /span -->	
+			
+		
 		<!-- ==================== Christopher Bennett ======================================= -->
 		
 		<div class="col-xs-12 col-sm-6 col-md-4">
@@ -142,7 +143,7 @@
 
 							<!-- Item 0 -->
 							<div class="item active">
-								<img class="img-circle" src="img/team/bodamere-2.jpg" alt="Emily Bodamer">
+								<img style="margin-top:0px;" class="img-circle" src="img/team/bodamere-2.jpg" alt="Emily Bodamer">
 							</div><!-- /.item -->
 
 							<!-- Item 2 -->
@@ -169,7 +170,7 @@
 
 							<!-- Item 0 -->
 							<div class="item active">
-								<img class="img-circle" src="img/team/clevelandd-2.jpg" alt="Daniel Cleveland">
+								<img style="margin-top:0px;" class="img-circle" src="img/team/clevelandd-2.jpg" alt="Daniel Cleveland">
 							</div><!-- /.item -->
 
 							<!-- Item 2 -->
@@ -243,21 +244,7 @@
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
-					<div id="myCarousel" class="carousel slide team-carousel" data-interval="8000">				
-					<div class="carousel-inner img-circle">
-
-							<!-- Item 0 -->
-							<div class="item active">
-								<img class="img-circle" src="img/team/medert.jpg" alt="Tyler Meder">
-							</div><!-- /.item -->
-
-							<!-- Item 2 -->
-							<div class="item">
-								<img style="margin-top:0px;" class="" src="img/team/medert.jpg" alt="Tyler Meder">
-							</div><!-- /.item -->
-							
-				</div><!-- /.carousel-inner -->	
-					</div>
+					<img class="img-circle" src="img/team/medert.jpg" >
 					<h2>Tyler Meder</h2>
 					<p>Undergraduate Research Assistant.</p>
 					<p><a class="btn btn-default" href="team/TylerMeder">View details &raquo;</a></p>
@@ -288,7 +275,7 @@
 
 							<!-- Item 0 -->
 							<div class="item active">
-								<img class="img-circle" src="img/team/schwartzc-2.jpg" alt="Cynthia Schwartz">
+								<img style="margin-top:0px;" class="img-circle" src="img/team/schwartzc-2.jpg" alt="Cynthia Schwartz">
 							</div><!-- /.item -->
 
 							<!-- Item 2 -->
@@ -310,21 +297,7 @@
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="row team">
 				<div class="col-xs-12">
-					<div id="myCarousel" class="carousel slide team-carousel" data-interval="8000">				
-					<div class="carousel-inner img-circle">
-
-							<!-- Item 0 -->
-							<div class="item active">
-								<img class="img-circle" src="img/team/swanb-2.jpg" alt="Briana Swan">
-							</div><!-- /.item -->
-
-							<!-- Item 2 -->
-							<div class="item">
-								<img style="margin-top:0px;" class="" src="img/team/swanb.jpg" alt="Briana Swan">
-							</div><!-- /.item -->
-							
-				</div><!-- /.carousel-inner -->	
-				</div>
+				<img class="img-circle" src="img/team/swanb.jpg" >
 					<h2>Bri Swan</h2>
 					<p>Undergraduate Research Assistant.</p>
 					<p><a class="btn btn-default" href="team/BriSwan">View details &raquo;</a></p>
@@ -342,7 +315,7 @@
 
 							<!-- Item 0 -->
 							<div class="item active">
-								<img class="img-circle" src="img/team/trama-2.jpg" alt="Archie Tram">
+								<img style="margin-top:0px;" class="img-circle" src="img/team/trama-2.jpg" alt="Archie Tram">
 							</div><!-- /.item -->
 
 							<!-- Item 2 -->

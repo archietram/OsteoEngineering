@@ -23,7 +23,7 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-sm-4 col-md-3 pull-left">
-			<img src="../img/team/huffs.jpg" alt="Scott Huff" class="img-responsive">
+			<img src="../img/alumni/huffs.jpg" alt="Scott Huff" class="img-responsive">
 			<address>
   				<br>
   				<a href="mailto:scott.huff@utoledo.edu">scott.huff@utoledo.edu</a>

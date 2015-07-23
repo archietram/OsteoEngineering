@@ -23,7 +23,7 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-sm-4 col-md-3 pull-left">
-			<img src="../img/team/yaneya.jpg" alt="Alexander Yaney" class="img-responsive">
+			<img src="../img/alumni/yaneya.jpg" alt="Alexander Yaney" class="img-responsive">
 			<address>
   				<br>
   				<a href="mailto:alexander.yaney@osumc.edu">alexander.yaney@osumc.edu</a>

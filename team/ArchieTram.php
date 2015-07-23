@@ -37,11 +37,14 @@
 			</p>
 			<h4>Feature:</h4>
 			<li><a href="https://www.osu.edu/features/2015/denman.html" target="_blank"> Denman Undergraduate Research Forum 2015</a></li>
+			<li><a href="http://undergraduateresearch.osu.edu/spotlights/2015/tram.html" target="_blank"> Undergraduate Research Office Student Spotlight 2015</a></li>
 			
 			<h4>Recent Presentations:</h4>
-			<li><p>Design of 3D-Printed Bone Tissue Engineering Scaffolds with Pore Architecture based on Triply Period Minimal Surfaces – Ohio State Biomedical Engineering Conference 2015.</p></li>
+			<li><p>Tram AK, Walker J, Dean D. Design of 3D-Printed Bone Tissue Engineering Scaffolds with Pore Architecture based on Triply Period Minimal Surfaces. Ohio State University Biomedical Engineering Department Research Day (OSBMEC), January 23, 2015, Columbus, OH.</p></li>
 
-			<li><p>Simulation of Mechanical Compression of Bone Tissue Engineering Scaffolds – Denman Undergraduate Research Forum 2015 | Undergraduate Research Forum for Engineering and Architecture 2015.</li></p>
+			<li><p>Tram AK, Walker J, Dean D. Simulation of Mechanical Compression of Bone Tissue Engineering Scaffolds. Ohio State University Engineering & Architecture Undergraduate Research Forum, March 12, 2015, Columbus, OH.</li></p>
+			
+			<li><p>Tram AK, Walker J, Dean D. Simulation of Mechanical Compression of Bone Tissue Engineering Scaffolds., Ohio State University Denman Forum, March 25, 2015, Columbus, OH.</li></p>
 						
 			<br>
 		</div><!-- /.span -->
