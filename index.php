@@ -28,19 +28,46 @@
 				<li data-target="#myCarousel" data-slide-to="2"></li>
 				<li data-target="#myCarousel" data-slide-to="3"></li>
 				<li data-target="#myCarousel" data-slide-to="4"></li>
+				<li data-target="#myCarousel" data-slide-to="5"></li>
+				<li data-target="#myCarousel" data-slide-to="6"></li>
 
 			</ol>
 			
 			<div class="carousel-inner">
 
-				<!-- Item 0 -->
+				<!-- Item Summer 2015 -->
 				<div class="item active">
-					<img alt="Osteo Engineering Team" src="img/home/hero0.jpg">
+					<img alt="Osteo Engineering Team" src="img/home/Summer2015.jpg">
 					<div class="container">
 						<div class="carousel-caption">
 							
 							<h2>Welcome!</h2>
 							<p><a class="btn btn-lg btn-primary" href="#anchor-01" role="button">Learn More</a></p>
+						
+						</div><!-- /.carousel-caption -->
+					</div><!-- /.container -->
+				</div><!-- /.item -->
+			
+				<!-- Lab Pictures -->
+				<div class="item">
+					<img alt="Osteo Engineering Team" src="img/home/LabPicture1.jpg">
+					<div class="container">
+						<div class="carousel-caption">
+							
+							<h2>Lab Members</h2>
+							<p><a class="btn btn-lg btn-primary" href="team" role="button">Learn More</a></p>
+						
+						</div><!-- /.carousel-caption -->
+					</div><!-- /.container -->
+				</div><!-- /.item -->	
+
+				<!-- Item 0 -->
+				<div class="item">
+					<img alt="Osteo Engineering Team" src="img/home/hero0.jpg">
+					<div class="container">
+						<div class="carousel-caption">
+						
+							<p><a class="btn btn-lg btn-primary" href="team" role="button">Learn More</a></p>
 						
 						</div><!-- /.carousel-caption -->
 					</div><!-- /.container -->
@@ -130,11 +157,17 @@
 					The intent of pre-culturing scaffolds is to fill and/or coat them with tissue that the body perceives as a “tissue engineered bone graft”.</p>
 					
 					<h3>News</h3>
-					<p>7/6/2015: Alison Claybon will be our new lab manager starting on July 14, 2015. Welcome Alison!</p>
+					<div class="col-xs-12 col-md-8">
+						<p>7/22/2015: Happy Birthday to Stefani!</p>
+						<p>7/17/2015: Ruchi's Baby Shower
+						<img alt="Ruchi's Baby Shower" src="img/news/Ruchis_Baby_Shower.jpg" class="img-responsive">
+						</p>
+						<p>7/6/2015: Alison Claybon will be our new lab manager starting on July 14, 2015. Welcome Alison!</p>
+						<p>6/18/2015: Intramural volleyball team, advancing into the 2nd round of the tournament.
+						<img alt="Intramural volley ball" src="img/news/Intramural_volleyball.jpg" class="img-responsive">
+						</p>
+					</div><!-- /.span -->
 			
-					<div class="responsive-iframe-container twit">
-						<a class="twitter-timeline" href="https://twitter.com/OsteoEngineer" data-widget-id="445647602290135040">Tweets by @OsteoEngineer</a>
-					</div>
 					<br />
 				</div><!-- /span -->
 				

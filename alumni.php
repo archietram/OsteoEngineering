@@ -63,10 +63,15 @@
 				<td><a href="alumni/JamesCox">James Cox</a></td>
 				<td>May 2013 - September 2013</td>
 			</tr> 
-
+			
 			<tr>
 				<td><a href="alumni/NathanCross">Nathan Cross, M.D.</a></td>
 				<td>April 2005 - June 2011</td>
+			</tr>		
+			
+			<tr>
+				<td><a href="alumni/NishaCrouser">Nisha Crouser</a></td>
+				<td>June 2015 - August 2015</td>
 			</tr>		
 			
 			<tr>
@@ -85,10 +90,20 @@
 			</tr>
 
 			<tr>
+			<td><a href="alumni/LucasHarrison">Lucas Harrison</a></td>
+			<td>June 2015 - August 2015</td>
+			</tr> 
+			
+			<tr>
 			<td><a href="alumni/XiaoliangHu">Xiaoliang Hu</a></td>
 			<td>2001 - 2007: Full Time; 2010 - 2011: Part Time</td>
 			</tr> 
 
+			<tr>
+			<td><a href="alumni/ScottHuff">Scott Huff</a></td>
+			<td>June 2015 - August 2015</td>
+			</tr> 
+			
 			<tr>
 			<td><a href="alumni/XinyiLuo">Xinyi Luo</a></td>
 			<td>September 2012 - August 2013</td>
@@ -148,6 +163,11 @@
 				<td>July 2005 - June 2008</td>
 			</tr>
 
+			<tr>
+				<td><a href="alumni/AlexanderYaney">Alexander Yaney</a></td>
+				<td>June 2015 - August 2015</td>
+			</tr> 
+			
 			<tr>
 				<td><a href="alumni/AdahZhang">Adah Zhang</a></td>
 				<td>May 2013 - August 2013</td>

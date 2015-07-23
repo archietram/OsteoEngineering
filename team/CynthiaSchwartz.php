@@ -23,7 +23,7 @@
 	<div class="row">
 		
 		<div class="col-xs-12 col-sm-4 col-md-3 pull-left">
-			<img src="../img/team/schwartzc.jpg" alt="Cynthia Schwartz"  class="img-responsive">
+			<img src="../img/team/schwartzc-2.jpg" alt="Cynthia Schwartz"  class="img-responsive">
 			<address>
   				<br>
   				<a href="mailto:schwartz.1538@buckeyemail.osu.edu">schwartz.1538@osu.edu</a>
@@ -42,9 +42,7 @@
 
 		</div><!-- /.span -->
 	</div><!-- /.row -->
-	
-<?php include("../includes/instafetches.php"); ?>
-	
+
 </div><!-- /.container -->
 	
 	   

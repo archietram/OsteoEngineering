@@ -23,7 +23,7 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-sm-4 col-md-3 pull-left">
-			<img src="../img/team/swanb.jpg" alt="Bri Swan" class="img-responsive">
+			<img src="../img/team/swanb-2.jpg" alt="Bri Swan" class="img-responsive">
 			<address>
   				<br>
   				<a href="mailto:swan.397@osu.edu">swan.397@osu.edu</a>

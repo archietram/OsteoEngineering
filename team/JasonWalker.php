@@ -23,7 +23,7 @@
 	<div class="row">
 		
 		<div class="col-xs-12 col-sm-4 col-md-3 pull-left">
-			<img src="../img/team/walkerj.jpg" alt="Jason Walker" class="img-responsive">
+			<img src="../img/team/walkerj-3.jpg" alt="Jason Walker" class="img-responsive">
 			<address>
   				<br>
   				<a href="mailto:jason.walker2@osumc.edu">jason.walker2@osumc.edu</a>

@@ -23,7 +23,7 @@
 	<div class="row">
 	
 		<div class="col-xs-12 col-sm-4 col-md-3 pull-left">
-			<img src="../img/team/trama.jpg" alt="Archie Tram" class="img-responsive">
+			<img src="../img/team/trama-2.jpg" alt="Archie Tram" class="img-responsive">
 			<address>
   				<br>
   				<a href="mailto:tram.2@osu.edu">tram.2@osu.edu</a>
