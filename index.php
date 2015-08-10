@@ -28,8 +28,6 @@
 				<li data-target="#myCarousel" data-slide-to="2"></li>
 				<li data-target="#myCarousel" data-slide-to="3"></li>
 				<li data-target="#myCarousel" data-slide-to="4"></li>
-				<li data-target="#myCarousel" data-slide-to="5"></li>
-				<li data-target="#myCarousel" data-slide-to="6"></li>
 
 			</ol>
 			
@@ -54,34 +52,9 @@
 					<div class="container">
 						<div class="carousel-caption">
 							
-							<h2>Lab Members</h2>
-							<p><a class="btn btn-lg btn-primary" href="team" role="button">Learn More</a></p>
-						
-						</div><!-- /.carousel-caption -->
-					</div><!-- /.container -->
-				</div><!-- /.item -->	
-
-				<!-- Item 0 -->
-				<div class="item">
-					<img alt="Osteo Engineering Team" src="img/home/hero0.jpg">
-					<div class="container">
-						<div class="carousel-caption">
-						
-							<p><a class="btn btn-lg btn-primary" href="team" role="button">Learn More</a></p>
-						
-						</div><!-- /.carousel-caption -->
-					</div><!-- /.container -->
-				</div><!-- /.item -->
-
-				<!-- Item 1 -->
-				<div class="item">
-					<img alt="Osteo Engineering Team" src="img/home/hero1.jpg">
-					<div class="container">
-						<div class="carousel-caption">
-							
 							<h2>Join The Team!</h2>
 							<p>We're always looking for great people to work with us.</p>
-							<p><a class="btn btn-lg btn-primary" href="jobs" role="button">Learn More</a></p>
+							<p><a class="btn btn-lg btn-primary" href="team" role="button">Learn More</a></p>
 						
 						</div><!-- /.carousel-caption -->
 					</div><!-- /.container -->
@@ -157,7 +130,7 @@
 					The intent of pre-culturing scaffolds is to fill and/or coat them with tissue that the body perceives as a “tissue engineered bone graft”.</p>
 					
 					<h3>News</h3>
-					<div class="col-xs-12 col-md-8">
+					<div class="col-xs-12 col-md-8" style="height:600px;border:1px solid #ccc;overflow:auto;">
 						<p>7/22/2015: Happy Birthday to Stefani!</p>
 						<p>7/17/2015: Ruchi's Baby Shower
 						<img alt="Ruchi's Baby Shower" src="img/news/Ruchis_Baby_Shower.jpg" class="img-responsive">
@@ -166,6 +139,36 @@
 						<p>6/18/2015: Intramural volleyball team, advancing into the 2nd round of the tournament.
 						<img alt="Intramural volley ball" src="img/news/Intramural_volleyball.jpg" class="img-responsive">
 						</p>
+						<p>May 2015: Summer 2015 Scholarship Recipients</p>
+						<ol>
+							<li>Alexander Yaney
+								<ul>
+									<li>Barnes Medical Student Research Scholarship ($3000)
+								</ul> 
+							<li>Archie Tram
+								<ul>
+									<li>Engineering Undergraduate Research Award ($5000)
+									<li>Research Scholar Award ($1000)
+									<li>Summer Research Fellowship ($3500)
+								</ul>
+							<li>Briana Swan
+								<ul>
+									<li>Research Scholar Award ($1000)
+									<li>2015 Summer Research Fellowship ($3500)
+								</ul> 
+							<li>Cynthia Schwartz
+								<ul>
+									<li>Barnes Medical Student Research Scholarship ($3000)
+								</ul> 
+							<li>Lucas Harrison
+								<ul>
+									<li>The Ohio State University College of Medicine Summer Undergraduate Course Creating Excellence in Scientific Study (SUCCESS) ($3800)
+								</ul> 
+							<li>Nisha Crouser
+								<ul>
+									<li>Roessler Research Scholarship ($3000)
+								</ul> 								
+						</ol>
 					</div><!-- /.span -->
 			
 					<br />

@@ -33,8 +33,10 @@
 		<div class="col-xs-12 col-sm-8 col-md-9">
 			<h3>Lucas Harrison</h3>
 			<p>Started: June 2015</p>
-			<p> 
-			</p>
+			<h4>Scholarship: The Ohio State University College of Medicine Summer Undergraduate Course Creating Excellence in Scientific Study (SUCCESS) </h4>
+			<p>Amount: $3,800</p>
+			<p>Abstract:</p>
+			<p>My research project is focused on optimizing the formulation of stage-wise use of media for the induction of cell fates within the osteoblastic lineage descending from human Mesenchymal Stem Cells (hMSC) on resorbable poly(propylene fumarate) (PPF) bone tissue engineered scaffolds.</p>
 			<br>
 		</div><!-- /.span -->
 	</div><!-- /.row -->

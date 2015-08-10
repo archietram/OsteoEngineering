@@ -35,6 +35,9 @@
 			<p>Started: October 2013</p>
 			<p>Bri Swan is a Microbiology major at The Ohio State University, planning to graduate in Spring 2017. She is from Gahanna, Ohio. In the lab, she works primarily on the ECM Thickness and SCID Mouse studies. Bri is also a member of Bioscience Scholars and Glamour Gals Club, volunteering at nursing homes & giving makeovers. 
 			</p>
+			<h4>Scholarships: Research Scholar Award ($1000); 2015 Summer Research Fellowship ($3500)</h4>
+			<p>Abstract:</p>
+			<p>Traditionally cells have been cultured in a 2-dimensional environment, however, in vitro culture of tissue on 3-dimensional scaffolds has given rise to perfusion culture systems, which are expensive and complicated to design and run in-house. The Osteo-Engineering Lab is developing a cost-effective perfusion bioreactor system to enable cell proliferation and differentiation on 3D printed poly(propylene fumarate) scaffolds for bone tissue engineering. A major concern is cell viability and scaffolds are needed to validate the system before further steps can be taken towards patient implantation.</p>
 			<br>
 		</div><!-- /.span -->
 	</div><!-- /.row -->

@@ -33,7 +33,7 @@
 		<div class="col-xs-12 col-sm-8 col-md-9">
 			<h3>Alison Claybon</h3>
 			<p>Started: July 2015</p>
-			<p> 
+			<p>Alison joined the Dean Lab in July 2015. She completed her B.S. in Zoology at NC State University in 2005 and her M.S. in Cellular and Structural Biology at The University of Texas Health Science Center in San Antonio in 2009. The focus of her research was in DNA damage repair via homologous recombination in vivo. As Osteo Engineering lab manager, Alison coordinates the day to day activity in the lab, guides our student research assistants, and is involved in the tissue culture studies and developing implants.
 			</p>
 			<br>
 		</div><!-- /.span -->

@@ -285,7 +285,7 @@
 							
 				</div><!-- /.carousel-inner -->	
 				</div>				
-					<h2>Cynthia Schwartz</h2>
+					<h2>Cynthia Schwartz, M.S.</h2>
 					<p>Medical Student Research Assistant.</p>
 					<p><a class="btn btn-default" href="team/CynthiaSchwartz">View details &raquo;</a></p>
 				</div><!-- /.col-lg-4 -->
@@ -331,6 +331,19 @@
 				</div><!-- /.col-lg-4 -->
 			</div><!-- /.row -->
 		</div><!-- /span -->
+		
+		<!-- ==================== Alex Yaney ======================================== -->
+		
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<div class="row team">
+				<div class="col-xs-12">
+				<img class="img-circle" src="img/team/yaneya.jpg" >
+					<h2>Alex Yaney</h2>
+					<p>Medical Student Research Assistant.</p>
+					<p><a class="btn btn-default" href="team/AlexYaney">View details &raquo;</a></p>
+				</div><!-- /.col-lg-4 -->
+			</div><!-- /.row -->
+		</div><!-- /span -->		
 		
 <!-- ================================================================================= -->
 <!-- ================================================================================= -->

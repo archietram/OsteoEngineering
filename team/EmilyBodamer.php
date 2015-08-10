@@ -27,7 +27,6 @@
 			<address>
   				<br>
   				<a href="mailto:bodamer.5@osu.edu">bodamer.5@osu.edu</a>
-  				<br><a href="http://emilybodamer.weebly.com">http://emilybodamer.weebly.com</a></p>
 			</address> 
 		</div><!-- /.span -->
 	

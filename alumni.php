@@ -162,11 +162,6 @@
 				<td><a href="alumni/DavoodVarghai">Davood Varghai, M.D.</a></td>
 				<td>July 2005 - June 2008</td>
 			</tr>
-
-			<tr>
-				<td><a href="alumni/AlexanderYaney">Alexander Yaney</a></td>
-				<td>June 2015 - August 2015</td>
-			</tr> 
 			
 			<tr>
 				<td><a href="alumni/AdahZhang">Adah Zhang</a></td>
